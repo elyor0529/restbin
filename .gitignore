@@ -1,0 +1,13 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+/src/TestResults
+/src/RestBin.WebServer/obj
+/src/RestBin.WebServer/bin
+/src/RestBin.UnitTest/bin
+/src/RestBin.UnitTest/obj
+/src/RestBin.Common/obj
+/src/RestBin.Common/bin
+/src/RestBin.Cmd/bin
+/src/RestBin.Cmd/obj
+/src/RestBin.ClientEndpoint/obj
+/src/RestBin.ClientEndpoint/bin
+/src/.vs
